@@ -19,6 +19,6 @@ Route::get('/', function () {
 
 
 
-Route::get('/hello', function () {
+Route::get('/about', function () {
     return "hello";
 });
